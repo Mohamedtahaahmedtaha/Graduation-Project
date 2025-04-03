@@ -1,4 +1,4 @@
-#EYECG
+
 EyeEG project focused on utilizing artificial intelligence and Internet of Things (IoT) applications to implement fifth-generation (5G) communication technologies
 Developing a Deep Learning Model for Reconstructing CMR Images from Retinal Images using an Image-to-Image Translator (CycleGAN) and Utilizing Reconstructed Images in a Deep Regressor to Estimate Left Ventricle Volume for the Prevention of Heart Failure.
 The project was among 275 submissions from 29 countries, we won the 1st place.
